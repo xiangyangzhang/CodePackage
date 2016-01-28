@@ -1,0 +1,12 @@
+转换速度快、使用简单方便的字典转模型框架
+
+
+    MJExtension是一套字典和模型之间互相转换的超轻量级框架
+    JSON --> Model、Core Data Model
+    JSONString --> Model、Core Data Model
+    Model、Core Data Model --> JSON
+    JSON Array --> Model Array、Core Data Model Array
+    JSONString --> Model Array、Core Data Model Array
+    Model Array、Core Data Model Array --> JSON Array
+    Coding all properties of model in one line code.
+        只需要一行代码，就能实现模型的所有属性进行Coding（归档和解档）
